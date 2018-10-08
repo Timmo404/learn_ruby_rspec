@@ -1,5 +1,5 @@
 Made with https://github.com/jango974/sem2_day1
-Cala stéphane github.com/Timmo404/learn_ruby_rspec
+Cala stéphane https://github.com/Timmo404/learn_ruby_rspec
 
 Test First Ruby -- RSpec 3 Edition
 ==========
